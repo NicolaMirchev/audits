@@ -15,7 +15,7 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 | Protocol | Type | My findings | My report | Date | More |
 |----------|------|-------------|-----------|------|------|
 | [Centifuge](https://code4rena.com/contests/2023-09-centrifuge) | Lending | 1M | [Open](./contests/codearena/centifuge.md) | 09.2023 |  |
-| [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar) | NFT (NFV), DeFi |   |  | 10.2023 | Waiting results |
+| [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar) | NFT (NFV), DeFi | 3M |[Open](./contests/codearena/opendollar.md)  | 10.2023 | 1 Unique & 5th place |
 
 ## [Sherlock](https://audits.sherlock.xyz/contests)
 | Protocol | Type | My findings | My report | Date | More |
