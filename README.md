@@ -16,6 +16,8 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 |----------|------|-------------|-----------|------|------|
 | [Centifuge](https://code4rena.com/contests/2023-09-centrifuge) | Lending | 1M | [Open](./contests/codearena/centifuge.md) | 09.2023 |  |
 | [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar) | NFT (NFV), DeFi | 3M |[Open](./contests/codearena/opendollar.md)  | 10.2023 | 1 Unique & 5th place |
+| [Canto Bonding Curves](https://code4rena.com/contests/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) |Vault, Leverage, ERC 1155 | 1M |[Open](./contests/codearena/canto1155s.md)  | 11.2023 |  |
+
 
 ## [Sherlock](https://audits.sherlock.xyz/contests)
 | Protocol | Type | My findings | My report | Date | More |
