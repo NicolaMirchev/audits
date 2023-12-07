@@ -8,7 +8,7 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 |----------|------|-------------|-----------|------|------|
 | [DeFi Stablecoin CodeHawks](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)| ERC20, DeFi | 2M,2L,2G | [Open](./contests/codehawks/stablecoin.md)| 07.2023| |
 | [BeedleFi](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | Perpetual Lending, P2P | 2H,2L | [Open](./contests/codehawks/beedlefi.md)| 07.2023| |
-| [SparkN](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | ERC20, Escorw | 1H,1M,2L | [Open](./contests/codehawks/sparkn.md)| 08.2023| 3rd place|
+| [SparkN](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | ERC20, Escorw | 1H,1M,2L | [Open](./contests/codehawks/sparkn.md)| 08.2023| 2nd place, 100% H found/ 1/3% M|
 | [SteadyFi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf) | Vault, Leverage | 3M, 1L | [Open](./contests/codehawks/steadefi.md)| 10.2023| 1 selected with 1 dup & unique low |
 
 ## [Code Arena](https://code4rena.com/@nmirchev8)
