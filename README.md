@@ -26,5 +26,5 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 | [Gitcoin Allo V2](https://audits.sherlock.xyz/contests/109) | Capital Distribution, Vault |   | [Open](./contests/sherlock/allov2.md)|09.2023 | Controversial judging |
 
 ## Contacts
-- [Twitter](https://twitter.com/nikola_mirchev8)
+- [Twitter](https://twitter.com/nmirchev8)
 
