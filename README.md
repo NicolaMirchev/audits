@@ -18,6 +18,9 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 | [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar) | NFT (NFV), DeFi | 3M |[Open](./contests/codearena/opendollar.md)  | 10.2023 | 1 Unique & 5th place |
 | [Canto Bonding Curves](https://code4rena.com/contests/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) |Vault, Leverage, ERC 1155 | 1M |[Open](./contests/codearena/canto1155s.md)  | 11.2023 | 1/3 of all issues |
 [Kelp Dao](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) |Liquid Staking| 1M |[Open](./contests/codearena/KelpDao.md)  | 11.2023 |  |
+[Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) |Borrowing, DAO, Staking| Soon |[Soon](./contests/codearena/creditGuild.md)  | 12.2023 |  |
+[Revolution](https://code4rena.com/audits/2023-12-revolution-protocol#top) |NFT, DAO | Soon |[Soon](./contests/codearena/revolution.md)  | 12.2023 |  |
+
 
 
 ## [Sherlock](https://audits.sherlock.xyz/contests)
@@ -28,4 +31,10 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 
 ## Contacts
 - [Twitter](https://twitter.com/nmirchev8)
+- [Telegram](https://t.me/nmirchev8)
 
+## Public Platform Profiles
+- Code4rena - https://code4rena.com/@nmirchev8
+- CodeHawks - https://www.codehawks.com/profile/clkao1p090000ld08dv6v2xus
+- Sherlock - https://audits.sherlock.xyz/watson/nmirchev8
+- Cantina - https://cantina.xyz/u/nmirchev8
