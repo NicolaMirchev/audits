@@ -19,7 +19,7 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 | [Canto Bonding Curves](https://code4rena.com/contests/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) |Vault, Leverage, ERC 1155 | 1M |[Open](./contests/codearena/canto1155s.md)  | 11.2023 | 1/3 of all issues |
 [Kelp Dao](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) |Liquid Staking| 1M |[Open](./contests/codearena/KelpDao.md)  | 11.2023 |  |
 [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) |Borrowing, DAO, Staking| Soon |[Soon](./contests/codearena/creditGuild.md)  | 12.2023 |  |
-[Revolution](https://code4rena.com/audits/2023-12-revolution-protocol#top) |NFT, DAO | Soon |[Soon](./contests/codearena/revolution.md)  | 12.2023 |  |
+[Revolution](https://code4rena.com/audits/2023-12-revolution-protocol#top) |NFT, DAO | 3 M |[Open](./contests/codearena/revolution.md)  | 12.2023 |  |
 
 
 
