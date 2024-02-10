@@ -20,10 +20,10 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 | [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar) | NFT (NFV), DeFi | 3M |[Open](./contests/codearena/opendollar.md)  | 10.2023 | 1 Unique & 5th place |
 | [Canto Bonding Curves](https://code4rena.com/contests/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) |Vault, Leverage, ERC 1155 | 1M |[Open](./contests/codearena/canto1155s.md)  | 11.2023 | 1/3 of all issues |
 [Kelp Dao](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) |Liquid Staking| 1M |[Open](./contests/codearena/KelpDao.md)  | 11.2023 |  |
-[Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) |Borrowing, DAO, Staking| Soon |[Soon](./contests/codearena/creditGuild.md)  | 12.2023 |  |
+[Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) |Borrowing, DAO, Staking| 2H, 2M |[Open](./contests/codearena/creditGuild.md)  | 12.2023 | Team Audit |
 [Revolution](https://code4rena.com/audits/2023-12-revolution-protocol#top) |NFT, DAO | 4 M |[Open](./contests/codearena/revolution.md)  | 12.2023 |  |
 [Curves](https://code4rena.com/audits/2024-01-curves#top) | SocialFi | Soon |[Soon](./contests/codearena/curves.md)  | 01.2024 |  |
-[Decent](https://code4rena.com/audits/2024-01-decent#top) |Cross-chain, Bridge, LZ | Soon |[Soon](./contests/codearena/decent.md)  | 01.2024 |  |
+[Decent](https://code4rena.com/audits/2024-01-decent#top) |Cross-chain, Bridge, LZ | 2H, 2M |[Open](./contests/codearena/decent.md)  | 01.2024 |  |
 [Opus](https://code4rena.com/audits/2024-01-opus#top) |Cross-margin, Stablecoin | Soon |[Soon](./contests/codearena/opus.md)  | 01.2024 | Canto lang|
 
 
