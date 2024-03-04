@@ -22,7 +22,7 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 [Kelp Dao](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) |Liquid Staking| 1M |[Open](./contests/codearena/KelpDao.md)  | 11.2023 |  |
 [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) |Borrowing, DAO, Staking| 2H, 2M |[Open](./contests/codearena/creditGuild.md)  | 12.2023 | Team Audit |
 [Revolution](https://code4rena.com/audits/2023-12-revolution-protocol#top) |NFT, DAO | 4 M |[Open](./contests/codearena/revolution.md)  | 12.2023 |  |
-[Curves](https://code4rena.com/audits/2024-01-curves#top) | SocialFi | 3H, 2M |[Open](./contests/codearena/curves.md)  | 01.2024 |  |
+[Curves](https://code4rena.com/audits/2024-01-curves#top) | SocialFi | 3H, 3M |[Open](./contests/codearena/curves.md)  | 01.2024 |  |
 [Decent](https://code4rena.com/audits/2024-01-decent#top) |Cross-chain, Bridge, LZ | 2H, 2M |[Open](./contests/codearena/decent.md)  | 01.2024 |  |
 [Opus](https://code4rena.com/audits/2024-01-opus#top) |Cross-margin, Stablecoin | 1H |[Soon](./contests/codearena/opus.md)  | 01.2024 | Cairo lang|
 [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) |GameFi | Soon |[Soon](./contests/codearena/arenaAi.md)  | 02.2024 | Team Audit
