@@ -1,6 +1,9 @@
 # My Audits Summary
 A portfolio to store all audits from public contests, bug bounty programmes and more!  
 
+# Solo Audits
+- [Amet Finance](https://amet.finance/) - On-chain bonds  -> [Report](./solo/amet-finance-report_1.1.pdf)
+
 # Public Contests
 
 ## [Code Hawks](https://www.codehawks.com/profile/clkao1p090000ld08dv6v2xus)
