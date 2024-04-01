@@ -28,7 +28,8 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 [Curves](https://code4rena.com/audits/2024-01-curves#top) | SocialFi | 3H, 3M |[Open](./contests/codearena/curves.md)  | 01.2024 |  |
 [Decent](https://code4rena.com/audits/2024-01-decent#top) |Cross-chain, Bridge, LZ | 2H, 2M |[Open](./contests/codearena/decent.md)  | 01.2024 |  |
 [Opus](https://code4rena.com/audits/2024-01-opus#top) |Cross-margin, Stablecoin | 1H |[Open](./contests/codearena/opus.md)  | 01.2024 | Cairo lang|
-[AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) |GameFi | Soon |[Soon](./contests/codearena/arenaAi.md)  | 02.2024 | Team Audit
+[AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) |GameFi | 1H, 3M |[Open](./contests/codearena/arenaAi.md)  | 02.2024 | Team Audit|
+[RevertLend](https://code4rena.com/audits/2024-03-revert-lend#top)|Nft, Borrowing/Lending | Soon |[Soon](./contests/codearena/revertLend.md)  | 03.2024 | |
 
 
 
