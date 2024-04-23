@@ -1,5 +1,6 @@
 # My Audits Summary
 A portfolio to store all audits from public contests, bug bounty programmes and more!  
+__NOTE__  For up to date list visit my team repo [HERE](https://github.com/Egis-Security/audits)
 
 # Solo Audits
 - [Amet Finance](https://amet.finance/) - On-chain bonds  -> [Report](./solo/amet-finance-report_1.1.pdf)
@@ -29,7 +30,7 @@ A portfolio to store all audits from public contests, bug bounty programmes and 
 [Decent](https://code4rena.com/audits/2024-01-decent#top) |Cross-chain, Bridge, LZ | 2H, 2M |[Open](./contests/codearena/decent.md)  | 01.2024 |  |
 [Opus](https://code4rena.com/audits/2024-01-opus#top) |Cross-margin, Stablecoin | 1H |[Open](./contests/codearena/opus.md)  | 01.2024 | Cairo lang|
 [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) |GameFi | 1H, 3M |[Open](./contests/codearena/arenaAi.md)  | 02.2024 | Team Audit|
-[RevertLend](https://code4rena.com/audits/2024-03-revert-lend#top)|Nft, Borrowing/Lending | Soon |[Soon](./contests/codearena/revertLend.md)  | 03.2024 | |
+[RevertLend](https://code4rena.com/audits/2024-03-revert-lend#top)|Nft, Borrowing/Lending | 1H, 1M |[Open](./contests/codearena/revertLend.md)  | 03.2024 | |
 
 
 
